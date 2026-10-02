@@ -10,19 +10,19 @@
     "deploy": "vinext-cloudflare deploy"
   },
   "dependencies": {
-    "@cloudflare/vite-plugin": "beta",
+    "@cloudflare/vite-plugin": "2.0.0-beta.sha-52b0dc0e9",
     "@vinext/cloudflare": "latest",
     "cf": "latest",
-    "vinext": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "react-server-dom-webpack": "latest"
+    "react-server-dom-webpack": "latest",
+    "vinext": "latest"
   },
   "devDependencies": {
-    "@vitejs/plugin-rsc": "latest",
-    "@vitejs/plugin-react": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest",
+    "@vitejs/plugin-react": "latest",
+    "@vitejs/plugin-rsc": "latest",
     "typescript": "latest",
     "vite": "latest"
   }
