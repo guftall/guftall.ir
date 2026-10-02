@@ -1,0 +1,28 @@
+{
+  "name": "guftall-ir",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vinext dev",
+    "build": "vinext build",
+    "preview": "vite preview",
+    "deploy": "vinext-cloudflare deploy"
+  },
+  "dependencies": {
+    "@cloudflare/vite-plugin": "^2.0.0",
+    "@vinext/cloudflare": "latest",
+    "cf": "latest",
+    "vinext": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-server-dom-webpack": "latest"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-rsc": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "typescript": "latest",
+    "vite": "latest"
+  }
+}
