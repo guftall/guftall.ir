@@ -1,12 +1,12 @@
 import "./styles.css";
 
 export const metadata = {
-  title: "oMid Guftall — Software developer",
+  title: "Omid Dehghani — Software developer",
   description:
-    "The personal website of oMid Guftall: software developer, builder, and lifelong learner.",
+    "The personal website of Omid Dehghani: software developer, builder, and lifelong learner.",
   metadataBase: new URL("https://guftall.ir"),
   openGraph: {
-    title: "oMid Guftall — Software developer",
+    title: "Omid Dehghani — Software developer",
     description: "Thoughtful software, built with curiosity.",
     url: "https://guftall.ir",
     siteName: "guftall.ir",

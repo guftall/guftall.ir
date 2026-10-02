@@ -42,9 +42,9 @@ export default function Home() {
     <main>
       <header className="nav-wrap">
         <nav className="nav page-width" aria-label="Main navigation">
-          <a className="wordmark" href="#home" aria-label="oMid Guftall, home">
+          <a className="wordmark" href="#home" aria-label="Omid Dehghani, home">
             <span className="wordmark-mark">g<span>.</span></span>
-            <span>omid guftall</span>
+            <span>omid dehghani</span>
           </a>
           <div className="nav-links">
             <a href="#about">About</a>
@@ -60,7 +60,7 @@ export default function Home() {
           <div className="eyebrow"><span className="availability-dot" /> SOFTWARE DEVELOPER <span className="eyebrow-divider">/</span> IRAN</div>
           <h1>Thoughtful software,<br /><span>built with curiosity.</span></h1>
           <p className="hero-intro">
-            I&apos;m <strong>oMid Guftall</strong> — a software developer who enjoys turning
+            I&apos;m <strong>Omid Dehghani</strong> — a software developer who enjoys turning
             interesting problems into clear, useful experiences.
           </p>
           <div className="hero-actions">
@@ -165,7 +165,7 @@ export default function Home() {
 
       <footer className="footer">
         <div className="page-width footer-inner">
-          <a className="wordmark footer-wordmark" href="#home"><span className="wordmark-mark">g<span>.</span></span><span>omid guftall</span></a>
+          <a className="wordmark footer-wordmark" href="#home"><span className="wordmark-mark">g<span>.</span></span><span>omid dehghani</span></a>
           <span className="footer-note">Made with curiosity <span>✳</span> © 2026</span>
           <div className="footer-links"><a href="https://github.com/guftall" target="_blank" rel="noreferrer">GitHub <Arrow diagonal /></a><a href="mailto:omid@guftall.ir">Email <Arrow diagonal /></a><a href="https://t.me/oMid_76" target="_blank" rel="noreferrer">Telegram <Arrow diagonal /></a></div>
         </div>

@@ -1,6 +1,6 @@
 # guftall.ir
 
-Personal portfolio for oMid Guftall, built with the Vinext App Router and deployed to Cloudflare Workers.
+Personal portfolio for Omid Dehghani, built with the Vinext App Router and deployed to Cloudflare Workers.
 
 ## Local development
 
