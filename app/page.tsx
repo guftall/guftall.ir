@@ -157,14 +157,17 @@ export default function Home() {
         <div className="section-kicker"><span>04</span> YOUR TURN</div>
         <h2>Have a good<br /><span>question?</span></h2>
         <p>I&apos;m always up for a thoughtful conversation or an interesting idea.</p>
-        <a className="button button-dark" href="mailto:omid@guftall.ir">Say hello <Arrow diagonal /></a>
+        <div className="contact-methods">
+          <a className="button button-dark" href="mailto:omid@guftall.ir">omid@guftall.ir <Arrow diagonal /></a>
+          <a className="inline-link" href="https://t.me/oMid_76" target="_blank" rel="noreferrer">Telegram: @oMid_76 <Arrow diagonal /></a>
+        </div>
       </section>
 
       <footer className="footer">
         <div className="page-width footer-inner">
           <a className="wordmark footer-wordmark" href="#home"><span className="wordmark-mark">g<span>.</span></span><span>omid guftall</span></a>
           <span className="footer-note">Made with curiosity <span>✳</span> © 2026</span>
-          <div className="footer-links"><a href="https://github.com/guftall" target="_blank" rel="noreferrer">GitHub <Arrow diagonal /></a><a href="mailto:omid@guftall.ir">Email <Arrow diagonal /></a></div>
+          <div className="footer-links"><a href="https://github.com/guftall" target="_blank" rel="noreferrer">GitHub <Arrow diagonal /></a><a href="mailto:omid@guftall.ir">Email <Arrow diagonal /></a><a href="https://t.me/oMid_76" target="_blank" rel="noreferrer">Telegram <Arrow diagonal /></a></div>
         </div>
       </footer>
     </main>

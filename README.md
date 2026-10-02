@@ -25,4 +25,4 @@ For CI, set `CLOUDFLARE_API_TOKEN` and `CLOUDFLARE_ACCOUNT_ID` instead of using 
 
 ## Personalize the content
 
-Edit the page copy, experience timeline, skills, and project cards in `app/page.tsx`. Update the page title and social preview metadata in `app/layout.tsx`. The current copy uses public GitHub profile details and should be expanded with exact roles, dates, résumé details, and project links before launch. The contact email is `omid@guftall.ir`.
+Edit the page copy, experience timeline, skills, and project cards in `app/page.tsx`. Update the page title and social preview metadata in `app/layout.tsx`. The current copy uses public GitHub profile details and should be expanded with exact roles, dates, résumé details, and project links before launch. Contact: `omid@guftall.ir` and [@oMid_76 on Telegram](https://t.me/oMid_76).
