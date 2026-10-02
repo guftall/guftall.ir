@@ -10,7 +10,7 @@
     "deploy": "vinext-cloudflare deploy"
   },
   "dependencies": {
-    "@cloudflare/vite-plugin": "^1.62.4",
+    "@cloudflare/vite-plugin": "beta",
     "@vinext/cloudflare": "latest",
     "cf": "latest",
     "vinext": "latest",
